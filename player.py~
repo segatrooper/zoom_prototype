@@ -1,0 +1,19 @@
+import pygame
+
+
+class Player:
+    def __init__(self, img_location, dimensions, frame_size, idle_tiles, down, up, left, right):
+        # dimensions 96 * 128
+        # frame 3 * 4
+        # to get the resolution of one tile:
+        tile_resolution = (dimensions[0] / frame_size[0], dimensions[1] / frame_size[1])
+        # this will give us the 32 * 32 that we will need, no guesswork
+        # idle tile is tile 0 * 1
+        self.character_sheet = pygame.image.load(img_location)
+        self.surface = pygame.Surface(tile_resolution)
+        # lets start with the idle animation for now
+        # idle_tiles = [0, 1]
+        self.surface.blit(self.character_sheet, self.surface.get_rect(), (tile_resolution[0] * idle_tiles[1], tile_resolution[1] * idle_tiles[0], ))
+
+
+

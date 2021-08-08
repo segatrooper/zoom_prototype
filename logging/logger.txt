@@ -1,0 +1,859 @@
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 0, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
+INFO:game:setting screen to size=(1920, 1080)
+INFO:game:setting background color to (0, 0, 255, 255)
+INFO:game:setting the user_inputs to {}
+INFO:game:setting main character sprite
+INFO:game:seting up Rigid for ./img/$popotawalk_sheet.png
+INFO:game:tile resolution for ./img/$popotawalk_sheet.png is (32.0, 32.0)
